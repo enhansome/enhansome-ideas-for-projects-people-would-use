@@ -1,0 +1,453 @@
+{
+  "items": [
+    {
+      "description": "If you fully deploy the project publicly, I award free hosting and small cash prizes at $25 per idea. This is at my discretion so people don't game the system or feel cheated; the point is to build the project for learning and self-satisfaction, not the grant -- the money is mostly just so you can pay for a domain and forget about it, so it can continue to exist :). I will likely fund any good-faith implementation. Reach out to me if you're interested in helping sponsor bounties as well!\nTotal projects built: 17.\nFinished + Paid out Bounties",
+      "items": [],
+      "title": "Funding"
+    },
+    {
+      "description": "Bounty Prompt: - Witness Encypted Tinder: Implement Protocol Labs’ new construction or this non-succinct one, and then build a proof of concept Tinder where everyone selects 5 people they want to match with, and are only matched if people select each other. First, everyone commits to, say, 5 people they are most interested in. Those 5 people should get only notified if they also commit to that person as one of their chosen 5 as well. So, after everyone commits, those commitments are used in the FC-WE scheme that everyone then runs, to publish a message only to their 5 folks only if they also had valid commitments (i.e. with them in it, while keeping it anonymous, which may not be possible with groth16). Finally, in the reveal stage, everyone attempts to read every message and can only end up reading the ones that work for them. You can do this with a pairwise Socialist Millionaire or Yao’s Garbled Circuits, but this requires more back and forth stages. Deployed Site: Oblivious Tinder Witness Encryption Tinder Site Github Repo Link: novus677/witness-encrypt-tinder Browser-Friendly Witness Encryption Library Link: novus677/witness-encryption-functional-commitment forked from vicsn/witness-encryption-functional-commitment",
+      "items": [],
+      "title": "Functional Encryption-based Witness Encrypted Tinder"
+    },
+    {
+      "description": "Bounty Prompt: A program that takes your spotify playlist and converts it to another one of remixes of the same songs, to get some variety. Create remixed versions of your favourite playlists. Free and open source! Website Link: mixmello.com GitHub Repo: alexgurr/mixmello",
+      "items": [],
+      "title": "Mixmello: Remix Spotify Playlists"
+    },
+    {
+      "description": "Bounty Prompt: An API endpoint for temporally consistent video colorization Completed by: Syed Mustafa Deployed Demo: Replicate API Demo",
+      "items": [],
+      "title": "Colorize Video"
+    },
+    {
+      "description": "Bounty Prompt: A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites, then when you go to Facebook etc, it says \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable. Completed by GrimSteel Github Repo: get-off-those-sites",
+      "items": [],
+      "title": "Get Off Those Sites"
+    },
+    {
+      "description": "Bounty Prompt: A website that, when given a certain song or artist on Spotify, it finds friends who have listened to that artist/song (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. Completed By: Colin Flueck Website Link: spotifymatch.com",
+      "items": [],
+      "title": "Spotify Match"
+    },
+    {
+      "description": "Bounty Prompt: Safe tornado cash, where users can use it but hackers/North Korea can't. To be able to use tornado.cash, you have to wait a significant number of blocks between deposits and withdraws. You know the leaves being added to the Merkle tree, and can trace which are linked to stolen deposits. You can create a second blocklist of \"banned leaves\", which allows you to block withdraws of nullifier leaves, meaning hackers can deposit but not withdraw. Github Repo: tornado-core-blacklist",
+      "items": [],
+      "title": "Safe Tornado Cash"
+    },
+    {
+      "description": "Bounty Prompt: Make an open source keybr clone with more statistics, like seperating lowercase/capital letters, and showing most missed keys and most missed pairs of keys. Completed by: Aayush Gupta (me) Github Repo: keybr-with-stats Deployed Website: https://keybr.onrender.com",
+      "items": [],
+      "title": "Open-source Keybr Clone with More Statistics"
+    },
+    {
+      "description": "Bounty Prompt: A tinder for songs -- plays the most commented 10 seconds of a song on Apple Music and adds it to a playlist if you like it. Inspired by Soundsieve (https://github.com/wilzh40/SoundSieve) which is unfortunately dead, and fab.fm which has a different song discovery method. Released as an iOS app. Completed by: Aditya Saravana Github Repo: github.com/adityasaravana/Tuneder",
+      "items": [],
+      "title": "Tuneder"
+    },
+    {
+      "description": "Bounty Prompt: A tinder for songs -- plays the most commented 10 seconds of a song on SoundCloud and adds it to a playlist if you like it. Inspired by Soundsieve (https://github.com/wilzh40/SoundSieve) which is unfortunately dead, and fab.fm which has a different song discovery method. Released as a web app. Completed by: Kevin Grosso (k0dev) Github Repo: https://github.com/k0dev/sc-explorer Website Link: SoundSwipe",
+      "items": [],
+      "title": "SoundSwipe"
+    },
+    {
+      "description": "Bounty Prompt: Make it really easy (replicate.com deployed, with a nice interface and API) to run the latest colorization and OCR AI models, at near-cost. Completed by: Cudanexus Demo: debvc and tcvc were state-of-the-art, but perform poorly in practice. Facebook Nougat (academic OCR AI where huggingface demo doesn't work) and BiSTNet (which won NTIRE2023's video colorization challenge) are in progress.",
+      "items": [],
+      "title": "AI Video Colorization APIs"
+    },
+    {
+      "description": "Bounty Prompt: An audio recorder where you can tap to add a flag at any time -- you can attach a note if you want, but the purpose is that later you can quickly skip to that time and know something important is there. Completed by: Aditya Saravana Github Repo: github.com/adityasaravana/Pitchpin Website Link: Pitchpin",
+      "items": [],
+      "title": "Pitchpin"
+    },
+    {
+      "description": "Bounty Prompt: The bruh button, but for damn daniel Completed by: Daniel Bessonov, Patrick Li Press: Saratoga Falcon: Top 25 App on App Store Taken Down",
+      "items": [],
+      "title": "Damn Daniel Button"
+    },
+    {
+      "description": "Bounty Prompt: An app that tracks the distance you've scrolled on your phone and puts it on a leaderboard Completed by: Bryan Chiang Demo Video: Demo",
+      "items": [],
+      "title": "Phone Scroll Distance Leaderboard"
+    },
+    {
+      "description": "Bounty Prompt: A way to use LaTeX equations in Google Docs Completed by: Aayush Gupta (me) Website: https://autolatex.com Press: Nature",
+      "items": [],
+      "title": "Auto-LaTeX Equations"
+    },
+    {
+      "description": "Bounty Prompt: A program that takes your spotify playlist and converts it to a clean version with the same songs and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents Completed by: Arman Rafati Website: https://www.cleanify.app/ Github Link: https://github.com/code-arman/Cleanify",
+      "items": [],
+      "title": "Spotify Playlist Cleanify"
+    },
+    {
+      "description": "Bounty Prompt: When something is downloaded, unzip it to its own folder then delete the original zip file Completed by: Aiden Magrath Github Repo: https://github.com/aidenmagrath/Windows-Auto-Unzipper Website Link: https://autounzipper.com/",
+      "items": [],
+      "title": "Windows Automatic Unzipper"
+    },
+    {
+      "description": "Bounty Prompt: Upsample each frame in a video independently with a GAN, creating an entirely style-transfered universe that moves from frame to frame in a slightly jarring and hypnotic way. Completed by: Milo Cress, David Wu, Alice Chen, Vincent Huang Demo Video: 30 second Video Github Repo: Github",
+      "items": [],
+      "title": "Trippy Videos"
+    },
+    {
+      "description": "If you make any of these, please make them open source!\nIf you want to be added to the list of people that have completed a project, request a PR adding the project idea, your project's URL, and your repo's URL to CONTRIBUTORS.md and above, and edit the README to mark them done. I can help brainstorm relevant communities, and recommend marketing ideas to help get your first few hundred users.\nWhy make them open source and ad-free?\nOpen source companies with canonical deployments are still often successful, and it makes little difference to the end user -- 99.99 percent of end users are not technical enough to even deploy a Github app. Gitlab, Android, Linux, Firefox, Flutter, React, Python, Rust, Docker, AWS, Box, Darabricks, Kubernetes, etc -- there's a massive list of open source projects that are wildly successful, and many of them have some \"canonical deployment\" which is monetized. People will pay a lot just for a hosted service of existing open source software.\nI wasn't always pro-open source. I thought, aren't you giving up your technical moat by open sourcing? But the financial upside to closed source compared to open source is very little, and the developer friendliness of open source is high enough that if there's any shot for the app to get big, that's the best shot. If someone publishes a competing app without your consent, expose them on Twitter (you can partner with them which is win-win, or report them to the app store which in a sense is lose-lose but an option). Companies recruit through open source too, so if you're a student, it's a great way to show off your skills.\nIf your goal is to have impact, it's estimated that you can create nearly 2000x impact per dollar (or equivalent time) put in because of ripple effects. With LLMs, I expect this number to go up even higher. If you want to have high impact, build open source.\nI promise none of these will be a billion dollar app (or frankly even a thousand dollar app), and is just an early step in a long list of many future great things you will do. I highly recommend you invest in maximizing your social capital right now (i.e. a cool Twitter post about your project, developers seeing and forking your code), and convert it to technical capital later. If you have a desire for monetizable projects, I'm happy to send over more ideas for those! Open source is also a great way to make sure you structure your repository well, especially secret management.\nAds bring in surprisingly low revenue -- I hope that the bounty makes it worth your time; for most of these apps, the amount you expect to make off of ads will probably be less than the bounty amount I pay you upfront. Concretely, 100K pageviews is what Gwern quoted to hit the same $200 I offer, and banner ads reduce your user count by 10% in A/B tests.\nOverall, I strongly advise against closed source and ads -- not just because of me, but for the success of the app, and for you to have the satisfaction of creating software used by the maximum number of people :)",
+      "items": [],
+      "title": "Contribution & pull requests"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "All Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tinder for Songs. Plays the most commented 10 seconds of a song on SoundCloud and adds it to a playlist if you like it. Inspired by Soundsieve (https://github.com/wilzh40/SoundSieve",
+          "description": ") which is unfortunately dead, and fab.fm which has a different song discovery method.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: By Aditya Saravana",
+              "description": "for Apple Music on iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2024-10-21T01:18:22Z",
+                "owner": "adityasaravana",
+                "repo": "Tuneder",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DONE: By Kevin Grosso",
+              "description": "for Soundcloud as a Webapp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2023-07-26T11:45:21Z",
+                "owner": "k0dev",
+                "repo": "sc-explorer",
+                "stars": 7
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-08-23T01:39:41Z",
+            "owner": "wilzh40",
+            "repo": "SoundSieve",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "A Chrome extension that tracks if you're on a certain song or artist on Spotify, and it finds friends who have listened to that artist/song (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: This is done by Colin Flueck",
+              "description": ", project at spotifymatch.com!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "SCSS",
+                "last_commit": "2023-02-15T05:24:26Z",
+                "owner": "colin4554",
+                "repo": "spotify-match",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spotify Playlist Remixer: A program that takes your Spotify playlist and converts it to another one of remixes of the same songs, to get some variety.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: By Alex Gurr",
+              "description": ", project at mixmello.com!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "SCSS",
+                "last_commit": "2021-10-20T08:50:52Z",
+                "owner": "alexgurr",
+                "repo": "mixmello",
+                "stars": 51
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spotify Parent-Friendly-ifier: A program that takes your Spotify playlist and converts it to a clean version with the same songs, and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: By Arman Rafati",
+              "description": ", project at cleanify.app!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-05-04T02:55:23Z",
+                "owner": "code-arman",
+                "repo": "Cleanify",
+                "stars": 69
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Blink Tracker for iOS/Android: Count blinks and display on screen. Here is a full spec for an iOS app",
+          "description": ".",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE (Android): This is done by Sergey V.",
+              "description": ", download from Google Play",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-06-14T12:18:12Z",
+                "owner": "djkovrik",
+                "repo": "BlinkTracker",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Anime Undimmer: During action scenes, animes will often dim scenes. Given a set of timestamps, create an automatic website or ffmpeg script that can take a video and undim those specific sections. Note that it's just a semiopaque black filter, so in practice, it seems just adjusting brightness, gamma, contrast, and saturation should be sufficient to undo it. The dimming parameters are different for each scene depending on the amount of motion, so it would have to somehow dynamically adapt.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: This is done by projectdate",
+              "description": "as a local bash script. I will still pay a half-bounty to convert it into a simple webtool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-15T16:48:10Z",
+                "owner": "projectdate",
+                "repo": "anime-undimmer",
+                "stars": 6
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Video Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the description here",
+          "description": ").",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-28T16:11:44Z",
+            "owner": "Divide-By-0",
+            "repo": "ideas-for-projects-people-would-use",
+            "stars": 2154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ed25519 encryption in a ZK SNARK (using circom). Metamask's encrypt function on chain would be new, and save people from having to use MIMC as an encryption function.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T12:48:58Z",
+            "owner": "MetaMask",
+            "repo": "eth-sig-util",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pay for L1 Txs With Any Coin: Gas station network v2 mainnet frontend, even for simple ERC20 sends. Would allow people to send transactions to the chain without any eth in their wallet; there are no live mainnet frontends right now. This is being vaguely pushed for with account abstraction, but you can also run MEV-incentivized relayers to do this (see stealthdrop",
+          "description": "or surrogeth without centralized relayers).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Circom",
+            "last_commit": "2026-02-16T19:40:02Z",
+            "owner": "stealthdrop",
+            "repo": "stealthdrop",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Donate to Any Arxiv Paper and Its References: Put in an arxiv link, and a bot scrapes all the emails out of the PDF/Arxiv itself. Then it scrapes all of the emails off of all of the dependencies and allows the donor to reweight them based on where they appeared in the text (i.e. it defaults to something like, cited in previous work or methods splits 40% of the donation, authors cited in intro split 10% of the funds or whatever). Then it deploys zk-email wallets",
+          "description": "for all of them and sends them the money.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-09T17:55:18Z",
+            "owner": "zkemail",
+            "repo": "email-wallet",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal NFT Auctions: Build a full NFT marketplace that uses optimal auction theory instead of first price auctions, like Opensea etc do right now. You should use our on chain blind Vickrey auction contracts",
+          "description": ", which you can understand via our blog post.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-02-21T00:30:38Z",
+            "owner": "Philogy",
+            "repo": "create2-vickrey-contracts",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recursive Verifier for Vole in the Head: Thanks to Nanak for the idea. Holonym has a very fast browser prover for circom",
+          "description": "based on the vole in the head paper, but proofs are 10mb. Write a recursive verifier for these proofs in groth16 so that you can aggregate them efficiently to post on-chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-03T17:58:04Z",
+            "owner": "holonym-foundation",
+            "repo": "vole-zk-prover",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add a nice frontend to https://github.com/nulven/zk-message-board, and build a proof-of-concept anonymous group posting app powered by zero-knowledge proofs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-11T18:12:48Z",
+            "owner": "nulven",
+            "repo": "zk-message-board",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZK Email Applications: Using our SDK linked to from https://prove.email",
+          "description": ", build any one of the applications listed on our organization readme! Most useful for getting off-chain data on chain, or sending assets to people off-chain in a trustless manner via email.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-02T06:16:58Z",
+            "owner": "zkemail",
+            "repo": ".github",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Safe Tornado Cash: Where users can use it, and prove non-membership in blocked lists of addresses. Such a list could be i.e. money linked to hacks/North Korea or something. Currently, to be able to use tornado.cash, you have to wait a significant number of blocks between deposits and withdraws. You know the leaves being added to the Merkle tree, and can trace which are linked to stolen deposits. You can create a second blocklist of \"banned leaves\", which allows you to block withdraws of nullifier leaves, meaning hackers can deposit but not withdraw.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Partially DONE: This was built",
+              "description": "and a bounty was awarded! Ameen built a similar centralized version of such a list, but he controls who is on that list. A version with any number of permissionless lists that users can choose to prove or not prove inclusion in, and anyone can make a new list, is a better way to do this. Note that this bounty is still open with the same reward for the more general construction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-13T00:17:49Z",
+                "owner": "hananbeer",
+                "repo": "tornado-core-blacklist",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Witness Encypted Tinder: Implement Protocol Labs’ new construction",
+          "description": "or this non-succinct one, and then build a proof of concept Tinder where everyone selects 5 people they want to match with, and are only matched if people select each other. First, everyone commits to, say, 5 people they are most interested in. Those 5 people should get only notified if they also commit to that person as one of their chosen 5 as well. So, after everyone commits, those commitments are used in the FC-WE scheme that everyone then runs, to publish a message only to their 5 folks only if they also had valid commitments (i.e. with them in it, while keeping it anonymous, which may not be possible with groth16). Finally, in the reveal stage, everyone attempts to read every message and can only end up reading the ones that work for them. You can do this with a pairwise Socialist Millionaire or Yao’s Garbled Circuits, but this requires more back and forth stages.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DONE: This is finished by Nathan at Oblivious Tinder",
+              "description": "site with this repo and this witness encryption library fork.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-11-02T02:11:18Z",
+                "owner": "novus677",
+                "repo": "witness-encrypt-tinder",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Integrate Nova as a proving backend in circom, with Solidity verifiers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Edit: Circom-nova",
+              "description": "is done.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-03-01T00:12:45Z",
+                "owner": "nalinbhardwaj",
+                "repo": "Nova-Scotia",
+                "stars": 247
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Crypto ($400 each)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:32:46.101Z",
+    "original_repository": "Divide-By-0/ideas-for-projects-people-would-use",
+    "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
+    "enhanced_repository": "enhansome/enhansome-ideas-for-projects-people-would-use",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ideas for Software that People Would Actually Use with stars"
+  }
+}
