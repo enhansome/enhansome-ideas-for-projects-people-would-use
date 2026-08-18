@@ -1,6 +1,6 @@
 # Awesome Ideas for Software that People Would Actually Use with stars
 
-Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,603 | 🐛 3 | 📅 2026-08-11.
+Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,604 | 🐛 3 | 📅 2026-08-11.
 
 These ideas, as far as I know, don't exist yet (or have done a poor job with SEO on Google). These are also ideas I desperately wish I could have tried at least once, meaning many others probably have as well. It's difficult to stay motivated coding or on a side project when you don't know if people will use it, or if your end goal is solving a solved problem. This list aims to fix that.
 
@@ -434,4 +434,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
