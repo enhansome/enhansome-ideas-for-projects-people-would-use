@@ -187,7 +187,7 @@
                 "last_commit": "2025-12-28T16:11:44Z",
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2161
+                "stars": 2160
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-04-20T12:48:58Z",
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
-                "stars": 581
+                "stars": 582
               }
             },
             {
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:38:58.831Z",
+    "last_updated": "2026-08-22T02:31:04.466Z",
     "original_repository": "Divide-By-0/ideas-for-projects-people-would-use",
     "original_repository_id": 282588655,
     "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
