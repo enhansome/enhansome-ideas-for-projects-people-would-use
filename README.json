@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "description": "If you fully deploy the project publicly, I award free hosting and small cash prizes at $25 per idea. This is at my discretion so people don't game the system or feel cheated; the point is to build the project for learning and self-satisfaction, not the grant -- the money is mostly just so you can pay for a domain and forget about it, so it can continue to exist :). I will likely fund any good-faith implementation. Reach out to me if you're interested in helping sponsor bounties as well!\nTotal projects built: 17.\nFinished + Paid out Bounties",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bounty Prompt: A program that takes your spotify playlist and converts it to a clean version with the same songs and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents Completed by: Arman Rafati Website: https://www.cleanify.app/",
+              "description": "Github Link: https://github.com/code-arman/Cleanify",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282723995,
+                "language": "JavaScript",
+                "last_commit": "2024-05-04T02:55:23Z",
+                "owner": "code-arman",
+                "repo": "Cleanify",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spotify Playlist Cleanify"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bounty Prompt: Upsample each frame in a video independently with a GAN, creating an entirely style-transfered universe that moves from frame to frame in a slightly jarring and hypnotic way. Completed by: Milo Cress, David Wu, Alice Chen, Vincent Huang Demo Video: 30 second Video",
+              "description": "Github Repo: Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304957269,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-01-04T19:27:28Z",
+                "owner": "milocress",
+                "repo": "stylish-flask-backend",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Trippy Videos"
+        }
+      ],
+      "title": "Funding"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -116,11 +166,55 @@
                   }
                 }
               ]
+            },
+            {
+              "node_type": "group",
+              "title": "Flagging Audio Recorder: An audio recorder where you can tap to add a flag at any time -- you can attach a note if you want, but the purpose is that later you can quickly skip to that time and know something important is there.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DONE: By Aditya Saravana",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663826020,
+                    "language": "Swift",
+                    "last_commit": "2023-11-08T16:19:17Z",
+                    "owner": "adityasaravana",
+                    "repo": "Pitchpin",
+                    "stars": 1
+                  }
+                }
+              ]
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Music"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github Dead Link Fixer: A website that lets you put in a Github repo, and it'll automatically make PR fixing all the dead links via replacing them with archive.org links like this Github bot",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260744558,
+                "language": "TypeScript",
+                "last_commit": "2026-04-29T15:28:18Z",
+                "owner": "tmcw",
+                "repo": "notfoundbot",
+                "stars": 116
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Programming Tools"
         },
         {
           "children": [
@@ -172,6 +266,57 @@
           "description": null,
           "node_type": "group",
           "title": "Video Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Talk to a 'painting' and have it talk back, like Harry Potter paintings. Speech-to-text on your voice, gpt-3-type-model for conversation, tokkingheads/other deepfakes to have a face emulate the response. This has been attempted",
+              "description": "and there are some open source demos, but it's not yet real-time end to end on arbitrary humans, and nowhere close on quality with animation on cartoons (anime is close).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 525163502,
+                "language": "Python",
+                "last_commit": "2024-04-02T19:11:28Z",
+                "owner": "Halcyox",
+                "repo": "XRAgents",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Processing/NLP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites, then when you go to Facebook etc, it says \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DONE: Built at get-off-those-sites",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 600903714,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-20T23:22:15Z",
+                    "owner": "grimsteel",
+                    "repo": "get-off-those-sites",
+                    "stars": 20
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fun/Tools"
         },
         {
           "children": [
@@ -371,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:40:13.928Z",
+    "last_updated": "2026-08-24T14:08:08.773Z",
     "original_repository": "Divide-By-0/ideas-for-projects-people-would-use",
     "original_repository_id": 282588655,
     "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
