@@ -332,7 +332,7 @@
                 "last_commit": "2025-12-28T16:11:44Z",
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2162
+                "stars": 2164
               }
             },
             {
@@ -344,7 +344,7 @@
                 "archived": false,
                 "id": 82644780,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:02:13Z",
+                "last_commit": "2026-08-26T12:49:52Z",
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
                 "stars": 583
@@ -516,9 +516,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:42:04.073Z",
-    "original_repository": "Divide-By-0/ideas-for-projects-people-would-use",
-    "original_repository_id": 282588655,
+    "last_updated": "2026-08-27T11:43:01.499Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 282588655,
+      "language": null,
+      "last_commit": "2025-12-28T16:11:44Z",
+      "owner": "Divide-By-0",
+      "repo": "ideas-for-projects-people-would-use",
+      "stars": 2164
+    },
     "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
     "enhanced_repository": "enhansome/enhansome-ideas-for-projects-people-would-use",
     "enhanced_repository_description": null,
