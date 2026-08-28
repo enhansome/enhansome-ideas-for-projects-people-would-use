@@ -18,7 +18,8 @@
                 "owner": "code-arman",
                 "repo": "Cleanify",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "milocress",
                 "repo": "stylish-flask-backend",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             }
           ],
           "description": null,
@@ -73,7 +75,8 @@
                     "owner": "adityasaravana",
                     "repo": "Tuneder",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 },
                 {
                   "node_type": "item",
@@ -88,7 +91,8 @@
                     "owner": "k0dev",
                     "repo": "sc-explorer",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ],
               "repo_info": {
@@ -99,7 +103,8 @@
                 "owner": "wilzh40",
                 "repo": "SoundSieve",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "group",
@@ -119,7 +124,8 @@
                     "owner": "colin4554",
                     "repo": "spotify-match",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -141,7 +147,8 @@
                     "owner": "alexgurr",
                     "repo": "mixmello",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -163,7 +170,8 @@
                     "owner": "code-arman",
                     "repo": "Cleanify",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -185,7 +193,8 @@
                     "owner": "adityasaravana",
                     "repo": "Pitchpin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             }
@@ -209,7 +218,8 @@
                 "owner": "tmcw",
                 "repo": "notfoundbot",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             }
           ],
           "description": null,
@@ -236,7 +246,8 @@
                     "owner": "djkovrik",
                     "repo": "BlinkTracker",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -258,7 +269,8 @@
                     "owner": "projectdate",
                     "repo": "anime-undimmer",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             }
@@ -282,7 +294,8 @@
                 "owner": "Halcyox",
                 "repo": "XRAgents",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             }
           ],
           "description": null,
@@ -309,7 +322,8 @@
                     "owner": "grimsteel",
                     "repo": "get-off-those-sites",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             }
@@ -333,7 +347,8 @@
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
                 "stars": 2164
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -348,7 +363,8 @@
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
                 "stars": 583
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -363,7 +379,8 @@
                 "owner": "stealthdrop",
                 "repo": "stealthdrop",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -378,7 +395,8 @@
                 "owner": "zkemail",
                 "repo": "email-wallet",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -393,7 +411,8 @@
                 "owner": "Philogy",
                 "repo": "create2-vickrey-contracts",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -408,7 +427,8 @@
                 "owner": "holonym-foundation",
                 "repo": "vole-zk-prover",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -423,7 +443,8 @@
                 "owner": "nulven",
                 "repo": "zk-message-board",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "item",
@@ -438,7 +459,8 @@
                 "owner": "zkemail",
                 "repo": ".github",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:59:49.771Z"
             },
             {
               "node_type": "group",
@@ -458,7 +480,8 @@
                     "owner": "hananbeer",
                     "repo": "tornado-core-blacklist",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -480,7 +503,8 @@
                     "owner": "novus677",
                     "repo": "witness-encrypt-tinder",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             },
@@ -502,7 +526,8 @@
                     "owner": "nalinbhardwaj",
                     "repo": "Nova-Scotia",
                     "stars": 247
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ]
             }
@@ -516,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:01.499Z",
+    "last_updated": "2026-08-28T12:59:49.771Z",
     "original_repository_info": {
       "archived": false,
       "id": 282588655,
