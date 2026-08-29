@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert your Explicit Spotify playlists into Clean playlists in the click of a button",
+                "homepage": "https://cleanify.app/",
                 "id": 282723995,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-04T02:55:23Z",
+                "open_issues": 12,
                 "owner": "code-arman",
                 "repo": "Cleanify",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 304957269,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-01-04T19:27:28Z",
+                "open_issues": 0,
                 "owner": "milocress",
                 "repo": "stylish-flask-backend",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             }
@@ -69,12 +79,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tinder for songs.",
+                    "homepage": "https://adityasaravana.github.io/tuneder-site/",
                     "id": 654375983,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2024-10-21T01:18:22Z",
+                    "open_issues": 1,
                     "owner": "adityasaravana",
                     "repo": "Tuneder",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "applemusic",
+                      "applemusicapi",
+                      "ios-swift",
+                      "iosswiftui",
+                      "musickit",
+                      "musickit-ios",
+                      "swift",
+                      "swiftui"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 },
@@ -85,24 +109,43 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Discover new songs on SoundCloud",
+                    "homepage": null,
                     "id": 655447891,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2023-07-26T11:45:21Z",
+                    "open_issues": 0,
                     "owner": "k0dev",
                     "repo": "sc-explorer",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "music",
+                      "python",
+                      "scraper",
+                      "soundcloud"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Winner of HSHacks II - Tinder for Music",
+                "homepage": null,
                 "id": 30467213,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-08-23T01:39:41Z",
+                "open_issues": 0,
                 "owner": "wilzh40",
                 "repo": "SoundSieve",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "music",
+                  "soundcloud",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -118,12 +161,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 593381143,
                     "language": "SCSS",
+                    "license": null,
                     "last_commit": "2023-02-15T05:24:26Z",
+                    "open_issues": 6,
                     "owner": "colin4554",
                     "repo": "spotify-match",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -141,12 +189,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create remixed versions of your favourite Spotify playlists.",
+                    "homepage": "https://www.mixmello.com",
                     "id": 412732661,
                     "language": "SCSS",
+                    "license": null,
                     "last_commit": "2021-10-20T08:50:52Z",
+                    "open_issues": 0,
                     "owner": "alexgurr",
                     "repo": "mixmello",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "music",
+                      "react",
+                      "spotify"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -164,12 +221,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert your Explicit Spotify playlists into Clean playlists in the click of a button",
+                    "homepage": "https://cleanify.app/",
                     "id": 282723995,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-05-04T02:55:23Z",
+                    "open_issues": 12,
                     "owner": "code-arman",
                     "repo": "Cleanify",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -187,12 +249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pitchpin is an open-source audio recorder app, like Voice Memos, with timestamping, so you can mark important moments while recording and come back to them later.",
+                    "homepage": "https://adityasaravana.github.io/pitchpin-site/",
                     "id": 663826020,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2023-11-08T16:19:17Z",
+                    "open_issues": 0,
                     "owner": "adityasaravana",
                     "repo": "Pitchpin",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -212,12 +279,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fix & archive outgoing links on your website",
+                "homepage": null,
                 "id": 260744558,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-29T15:28:18Z",
+                "open_issues": 14,
                 "owner": "tmcw",
                 "repo": "notfoundbot",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "actions",
+                  "hugo",
+                  "jekyll"
+                ]
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             }
@@ -240,12 +316,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tracks how many times you blink per minute and notifies you if it's below defined threshold",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.sedsoftware.blinktracker",
                     "id": 647371944,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-06-14T12:18:12Z",
+                    "open_issues": 0,
                     "owner": "djkovrik",
                     "repo": "BlinkTracker",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "compose",
+                      "decompose",
+                      "kotlin",
+                      "mvi-architecture",
+                      "mvikotlin",
+                      "vico"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -263,12 +351,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Undo dimming and ghosting in your favorite anime episodes, automatically.",
+                    "homepage": null,
                     "id": 727587971,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-15T16:48:10Z",
+                    "open_issues": 1,
                     "owner": "projectdate",
                     "repo": "anime-undimmer",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -288,12 +381,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General Purpose 3D Humanoid Simulator integrated with AI Agents.",
+                "homepage": "https://www.halcyox.com/",
                 "id": 525163502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-02T19:11:28Z",
+                "open_issues": 7,
                 "owner": "Halcyox",
                 "repo": "XRAgents",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "3d-agents",
+                  "3d-ai",
+                  "audio2face",
+                  "auto-animation",
+                  "gamedev-framework",
+                  "virtualreality"
+                ]
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             }
@@ -316,12 +421,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple extension to keep off distracting sites",
+                    "homepage": null,
                     "id": 600903714,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-02-20T23:22:15Z",
+                    "open_issues": 0,
                     "owner": "grimsteel",
                     "repo": "get-off-those-sites",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -341,12 +451,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
+                "homepage": null,
                 "id": 282588655,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-12-28T16:11:44Z",
+                "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2164
+                "stars": 2165,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "chrome-extension",
+                  "free",
+                  "ideas",
+                  "independent",
+                  "music",
+                  "playlist",
+                  "software",
+                  "spotify",
+                  "startup",
+                  "whattodo"
+                ]
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -357,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of functions for signing and verifying data with Ethereum keys.",
+                "homepage": null,
                 "id": 82644780,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2026-08-26T12:49:52Z",
+                "open_issues": 38,
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
-                "stars": 583
+                "stars": 583,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -373,12 +506,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Anonymous Airdrops using ZK-SNARKs",
+                "homepage": "https://stealthdrop.xyz",
                 "id": 446647565,
                 "language": "Circom",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-16T19:40:02Z",
+                "open_issues": 20,
                 "owner": "stealthdrop",
                 "repo": "stealthdrop",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "ethereum",
+                  "zero-knowledge",
+                  "zk-snarks"
+                ]
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -389,12 +531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A smart contract wallet controlled using email",
+                "homepage": "https://emailwallet.org",
                 "id": 665152793,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-09T17:55:18Z",
+                "open_issues": 30,
                 "owner": "zkemail",
                 "repo": "email-wallet",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -405,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 547319802,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2023-02-21T00:30:38Z",
+                "open_issues": 0,
                 "owner": "Philogy",
                 "repo": "create2-vickrey-contracts",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -421,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very fast and memory-efficient (but not succinct) ZK through VOLE in the Head. Contains adapter for load Circom-formatted circuits and witnesses.",
+                "homepage": null,
                 "id": 743843554,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-03T17:58:04Z",
+                "open_issues": 0,
                 "owner": "holonym-foundation",
                 "repo": "vole-zk-prover",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -437,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 416846106,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-03-11T18:12:48Z",
+                "open_issues": 2,
                 "owner": "nulven",
                 "repo": "zk-message-board",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -453,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description of project",
+                "homepage": null,
                 "id": 550403713,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-02T06:16:58Z",
+                "open_issues": 1,
                 "owner": "zkemail",
                 "repo": ".github",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
             },
@@ -474,12 +641,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tornado cash fork with blacklist to prevent illegal money laundering",
+                    "homepage": null,
                     "id": 577489956,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-13T00:17:49Z",
+                    "open_issues": 0,
                     "owner": "hananbeer",
                     "repo": "tornado-core-blacklist",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -497,12 +669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 742997147,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-11-02T02:11:18Z",
+                    "open_issues": 0,
                     "owner": "novus677",
                     "repo": "witness-encrypt-tinder",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -520,12 +697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Middleware to compile Circom circuits to Nova prover",
+                    "homepage": "https://crates.io/crates/nova-scotia",
                     "id": 538167259,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-03-01T00:12:45Z",
+                    "open_issues": 15,
                     "owner": "nalinbhardwaj",
                     "repo": "Nova-Scotia",
-                    "stars": 247
+                    "stars": 247,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:59:49.771Z"
                 }
@@ -541,15 +723,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:59:49.771Z",
+    "last_updated": "2026-08-29T04:25:27.910Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
+      "homepage": null,
       "id": 282588655,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-12-28T16:11:44Z",
+      "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2164
+      "stars": 2165,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chrome-extension",
+        "free",
+        "ideas",
+        "independent",
+        "music",
+        "playlist",
+        "software",
+        "spotify",
+        "startup",
+        "whattodo"
+      ]
     },
     "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
     "enhanced_repository": "enhansome/enhansome-ideas-for-projects-people-would-use",

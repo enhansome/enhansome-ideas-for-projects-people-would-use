@@ -374,7 +374,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ### Crypto ($400 each)
 
-* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,164 | 🐛 19 | 📅 2025-12-28).
+* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,165 | 🐛 19 | 📅 2025-12-28).
 * ~~ed25519 encryption in a ZK SNARK (using circom). Metamask's [encrypt](https://github.com/MetaMask/eth-sig-util/blob/main/src/encryption.ts#L94) ⭐ 583 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-26 function on chain would be new, and save people from having to use MIMC as an encryption function.~~
   * Edit: This is [done](https://ethresear.ch/t/verify-ed25519-signatures-cheaply-on-eth-using-zk-snarks/13139).
 * **Pay for L1 Txs With Any Coin**: Gas station network v2 mainnet frontend, even for simple ERC20 sends. Would allow people to send transactions to the chain without any eth in their wallet; there are no live mainnet frontends right now. This is being vaguely pushed for with account abstraction, but you can also run MEV-incentivized relayers to do this (see [stealthdrop](https://github.com/stealthdrop/stealthdrop) ⚠️ Archived or [surrogeth](https://github.com/lsankar4033/surrogeth) ⭐ 42 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-24 without centralized relayers).
@@ -434,4 +434,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
