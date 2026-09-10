@@ -1,66 +1,58 @@
 {
   "items": [
     {
-      "description": "If you fully deploy the project publicly, I award free hosting and small cash prizes at $25 per idea. This is at my discretion so people don't game the system or feel cheated; the point is to build the project for learning and self-satisfaction, not the grant -- the money is mostly just so you can pay for a domain and forget about it, so it can continue to exist :). I will likely fund any good-faith implementation. Reach out to me if you're interested in helping sponsor bounties as well!\nTotal projects built: 17.\nFinished + Paid out Bounties",
+      "description": null,
       "items": [
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Bounty Prompt: A program that takes your spotify playlist and converts it to a clean version with the same songs and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents Completed by: Arman Rafati Website: https://www.cleanify.app/",
-              "description": "Github Link: https://github.com/code-arman/Cleanify",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Convert your Explicit Spotify playlists into Clean playlists in the click of a button",
-                "homepage": "https://cleanify.app/",
-                "id": 282723995,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2024-05-04T02:55:23Z",
-                "open_issues": 12,
-                "owner": "code-arman",
-                "repo": "Cleanify",
-                "stars": 70,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:59:49.771Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Spotify Playlist Cleanify"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Bounty Prompt: Upsample each frame in a video independently with a GAN, creating an entirely style-transfered universe that moves from frame to frame in a slightly jarring and hypnotic way. Completed by: Milo Cress, David Wu, Alice Chen, Vincent Huang Demo Video: 30 second Video",
-              "description": "Github Repo: Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 304957269,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2021-01-04T19:27:28Z",
-                "open_issues": 0,
-                "owner": "milocress",
-                "repo": "stylish-flask-backend",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:59:49.771Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Trippy Videos"
+          "node_type": "item",
+          "title": "Bounty Prompt: A program that takes your spotify playlist and converts it to a clean version with the same songs and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents Completed by: Arman Rafati Website: https://www.cleanify.app/",
+          "description": "Github Link: https://github.com/code-arman/Cleanify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert your Explicit Spotify playlists into Clean playlists in the click of a button",
+            "homepage": "https://cleanify.app/",
+            "id": 282723995,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2024-05-04T02:55:23Z",
+            "open_issues": 12,
+            "owner": "code-arman",
+            "repo": "Cleanify",
+            "stars": 70,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:59:49.771Z"
         }
       ],
-      "title": "Funding"
+      "title": "Spotify Playlist Cleanify"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bounty Prompt: Upsample each frame in a video independently with a GAN, creating an entirely style-transfered universe that moves from frame to frame in a slightly jarring and hypnotic way. Completed by: Milo Cress, David Wu, Alice Chen, Vincent Huang Demo Video: 30 second Video",
+          "description": "Github Repo: Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 304957269,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2021-01-04T19:27:28Z",
+            "open_issues": 0,
+            "owner": "milocress",
+            "repo": "stylish-flask-backend",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:59:49.771Z"
+        }
+      ],
+      "title": "Trippy Videos"
     },
     {
       "description": null,
@@ -347,7 +339,7 @@
                 {
                   "node_type": "item",
                   "title": "DONE: This is done by projectdate",
-                  "description": "as a local bash script. I will still pay a half-bounty to convert it into a simple webtool.",
+                  "description": "as a local bash script. It could also be converted into a simple webtool.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -456,7 +448,7 @@
                 "id": 282588655,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2025-12-28T16:11:44Z",
+                "last_commit": "2026-09-09T22:07:36Z",
                 "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
@@ -620,7 +612,7 @@
                 "id": 550403713,
                 "language": null,
                 "license": null,
-                "last_commit": "2025-03-02T06:16:58Z",
+                "last_commit": "2026-09-09T21:28:41Z",
                 "open_issues": 1,
                 "owner": "zkemail",
                 "repo": ".github",
@@ -637,7 +629,7 @@
                 {
                   "node_type": "item",
                   "title": "Partially DONE: This was built",
-                  "description": "and a bounty was awarded! Ameen built a similar centralized version of such a list, but he controls who is on that list. A version with any number of permissionless lists that users can choose to prove or not prove inclusion in, and anyone can make a new list, is a better way to do this. Note that this bounty is still open with the same reward for the more general construction.",
+                  "description": "and a bounty was awarded! Ameen built a similar centralized version of such a list, but he controls who is on that list. A version with any number of permissionless lists that users can choose to prove or not prove inclusion in, and anyone can make a new list, is a better way to do this.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -723,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:08:09.718Z",
+    "last_updated": "2026-09-10T06:07:47.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -731,7 +723,7 @@
       "id": 282588655,
       "language": null,
       "license": "MIT",
-      "last_commit": "2025-12-28T16:11:44Z",
+      "last_commit": "2026-09-09T22:07:36Z",
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
@@ -751,7 +743,7 @@
         "whattodo"
       ]
     },
-    "original_repository_sha": "f63746901c80ef6a3f1e556b1f6425e11176fdbf",
+    "original_repository_sha": "fecc2f091347ba96de90b19ac4f156159eb13692",
     "enhanced_repository": "enhansome/enhansome-ideas-for-projects-people-would-use",
     "enhanced_repository_description": null,
     "title": "Awesome Ideas for Software that People Would Actually Use with stars"
