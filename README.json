@@ -532,7 +532,7 @@
                 "open_issues": 30,
                 "owner": "zkemail",
                 "repo": "email-wallet",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:58:02.023Z",
+    "last_updated": "2026-09-13T06:22:03.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
