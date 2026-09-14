@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2170,
+                "stars": 2171,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -532,7 +532,7 @@
                 "open_issues": 30,
                 "owner": "zkemail",
                 "repo": "email-wallet",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:22:03.752Z",
+    "last_updated": "2026-09-14T06:31:19.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -727,7 +727,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2170,
+      "stars": 2171,
       "topics": [
         "awesome",
         "awesome-list",
