@@ -268,7 +268,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 * **Individual Subtitles**: A companion chrome extension and app that takes the subtitles from Netflix and shows it on just one persons phone instead, and stays consistent timing nwise even if the main video is paused.
 * **Blink Tracker for iOS/Android**: Count blinks and display on screen. Here is a [full spec for an iOS app](https://docs.google.com/document/d/1w6dA5UAvva4zIa9e-msC-8sv5pUHpkX-7uuwCeT-C3Q/edit?usp=sharing).
-  * DONE (Android): This is done by [Sergey V.](https://github.com/djkovrik/BlinkTracker) ⭐ 4 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-14, download from [Google Play](https://play.google.com/store/apps/details?id=com.sedsoftware.blinktracker)
+  * DONE (Android): This is done by [Sergey V.](https://github.com/djkovrik/BlinkTracker) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-14, download from [Google Play](https://play.google.com/store/apps/details?id=com.sedsoftware.blinktracker)
 * **Combine Lecture Videos**: Given a set of videos (that may be slightly offset) from different angles, combine them into one video that cuts between the frames. This already exists for ai podcast processing software so shouldn't be too hard to adapt? Full [spec for CLI tool here](https://docs.google.com/document/d/1oInpmyf3xikM6TOMaz6Uqz5ZStdFyP7YqKX39RR9nMQ/edit).
 * **Mural Protector**: Sell small cameras in self-contained boxes with solar panels that simply send you a notification when someone is vandalizing a mural, and can start making a loud siren sound on demand. Sell them to people who like community murals and want to see them protected. Inspired by 'wacced out murals'.
 * Convert any youtube video to the trapezoid holographic projection (like [this](https://www.instructables.com/3D-Holograms-Using-Phone/)) by running depth perception AI on the video, and changing the depths that different pixels are at on different screens, so you see a depth modulated image on top of your screen, holographically, for any video!
@@ -367,7 +367,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ### Crypto ($400 each)
 
-* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,174 | 🐛 19 | 📅 2026-09-09).
+* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,175 | 🐛 19 | 📅 2026-09-09).
 * ~~ed25519 encryption in a ZK SNARK (using circom). Metamask's [encrypt](https://github.com/MetaMask/eth-sig-util/blob/main/src/encryption.ts#L94) ⭐ 583 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-03 function on chain would be new, and save people from having to use MIMC as an encryption function.~~
   * Edit: This is [done](https://ethresear.ch/t/verify-ed25519-signatures-cheaply-on-eth-using-zk-snarks/13139).
 * **Pay for L1 Txs With Any Coin**: Gas station network v2 mainnet frontend, even for simple ERC20 sends. Would allow people to send transactions to the chain without any eth in their wallet; there are no live mainnet frontends right now. This is being vaguely pushed for with account abstraction, but you can also run MEV-incentivized relayers to do this (see [stealthdrop](https://github.com/stealthdrop/stealthdrop) ⚠️ Archived or [surrogeth](https://github.com/lsankar4033/surrogeth) ⭐ 42 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-24 without centralized relayers).
@@ -425,4 +425,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
