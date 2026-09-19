@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2176,
+                "stars": 2178,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -482,8 +482,8 @@
                 "id": 82644780,
                 "language": "TypeScript",
                 "license": "ISC",
-                "last_commit": "2026-09-03T14:16:21Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-18T15:19:37Z",
+                "open_issues": 39,
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
                 "stars": 583,
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:04:43.277Z",
+    "last_updated": "2026-09-19T06:03:52.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -727,7 +727,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2176,
+      "stars": 2178,
       "topics": [
         "awesome",
         "awesome-list",
