@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2185,
+                "stars": 2186,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -486,7 +486,7 @@
                 "open_issues": 39,
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:35:37.933Z",
+    "last_updated": "2026-09-22T06:24:24.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -727,7 +727,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2185,
+      "stars": 2186,
       "topics": [
         "awesome",
         "awesome-list",
