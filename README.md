@@ -1,6 +1,6 @@
 # Awesome Ideas for Software that People Would Actually Use with stars
 
-Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,610 | 🐛 3 | 📅 2026-08-11.
+Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,609 | 🐛 3 | 📅 2026-08-11.
 
 These ideas, as far as I know, don't exist yet (or have done a poor job with SEO on Google). These are also ideas I desperately wish I could have tried at least once, meaning many others probably have as well. It's difficult to stay motivated coding or on a side project when you don't know if people will use it, or if your end goal is solving a solved problem. This list aims to fix that.
 
@@ -368,7 +368,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 ### Crypto ($400 each)
 
 * Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,187 | 🐛 19 | 📅 2026-09-09).
-* ~~ed25519 encryption in a ZK SNARK (using circom). Metamask's [encrypt](https://github.com/MetaMask/eth-sig-util/blob/main/src/encryption.ts#L94) ⭐ 584 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-18 function on chain would be new, and save people from having to use MIMC as an encryption function.~~
+* ~~ed25519 encryption in a ZK SNARK (using circom). Metamask's [encrypt](https://github.com/MetaMask/eth-sig-util/blob/main/src/encryption.ts#L94) ⭐ 584 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18 function on chain would be new, and save people from having to use MIMC as an encryption function.~~
   * Edit: This is [done](https://ethresear.ch/t/verify-ed25519-signatures-cheaply-on-eth-using-zk-snarks/13139).
 * **Pay for L1 Txs With Any Coin**: Gas station network v2 mainnet frontend, even for simple ERC20 sends. Would allow people to send transactions to the chain without any eth in their wallet; there are no live mainnet frontends right now. This is being vaguely pushed for with account abstraction, but you can also run MEV-incentivized relayers to do this (see [stealthdrop](https://github.com/stealthdrop/stealthdrop) ⚠️ Archived or [surrogeth](https://github.com/lsankar4033/surrogeth) ⭐ 42 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-24 without centralized relayers).
 * **Donate to Any Arxiv Paper and Its References**: Put in an arxiv link, and a bot scrapes all the emails out of the PDF/Arxiv itself. Then it scrapes all of the emails off of all of the dependencies and allows the donor to reweight them based on where they appeared in the text (i.e. it defaults to something like, cited in previous work or methods splits 40% of the donation, authors cited in intro split 10% of the funds or whatever). Then it deploys [zk-email wallets](https://github.com/zkemail/email-wallet) ⭐ 184 | 🐛 30 | 🌐 Rust | 📅 2025-04-09  for all of them and sends them the money.
@@ -425,4 +425,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
