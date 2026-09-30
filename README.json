@@ -190,7 +190,7 @@
                     "open_issues": 0,
                     "owner": "alexgurr",
                     "repo": "mixmello",
-                    "stars": 51,
+                    "stars": 50,
                     "topics": [
                       "music",
                       "react",
@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "Divide-By-0",
                 "repo": "ideas-for-projects-people-would-use",
-                "stars": 2192,
+                "stars": 2191,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:03:42.096Z",
+    "last_updated": "2026-09-30T06:54:02.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -727,7 +727,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2192,
+      "stars": 2191,
       "topics": [
         "awesome",
         "awesome-list",

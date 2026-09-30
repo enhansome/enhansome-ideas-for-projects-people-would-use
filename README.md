@@ -25,7 +25,7 @@ Feel free to use these for a hackathon, side project, or hacklodge project -- I'
 
 **Bounty Prompt**: A program that takes your spotify playlist and converts it to another one of remixes of the same songs, to get some variety. Create remixed versions of your favourite playlists. Free and open source! </br>
 **Website Link:** [mixmello.com](https://www.mixmello.com) </br>
-**GitHub Repo:** [alexgurr/mixmello](https://github.com/alexgurr/mixmello) ⭐ 51 | 🐛 0 | 🌐 SCSS | 📅 2021-10-20
+**GitHub Repo:** [alexgurr/mixmello](https://github.com/alexgurr/mixmello) ⭐ 50 | 🐛 0 | 🌐 SCSS | 📅 2021-10-20
 
 ### Colorize Video
 
@@ -187,7 +187,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
   * This is surprisingly highly requested, see [thread 1](https://community.spotify.com/t5/Closed-Ideas/Social-See-Friends-who-also-listen-to-an-Artist/idi-p/4397516), [2](https://community.spotify.com/t5/Closed-Ideas/Sort-By-Friends-Who-Listen-To-the-Same-Artists/idi-p/72047), and [3](https://community.spotify.com/t5/Closed-Ideas/Social-Listenalike-but-for-friends/idi-p/5041383).
   * Note that the above isn't exhasutive; as [@alexgurr](https://twitter.com/alexgurr) points out, for thoroughness you may need a Chrome extension to hit the friends API endpoint on Spotify web, or Facebook login to use Facebook friends.
 * **Spotify Playlist Remixer**: A program that takes your Spotify playlist and converts it to another one of remixes of the same songs, to get some variety.
-  * DONE: By [Alex Gurr](https://github.com/alexgurr/mixmello) ⭐ 51 | 🐛 0 | 🌐 SCSS | 📅 2021-10-20, project at [mixmello.com](https://www.mixmello.com/)!
+  * DONE: By [Alex Gurr](https://github.com/alexgurr/mixmello) ⭐ 50 | 🐛 0 | 🌐 SCSS | 📅 2021-10-20, project at [mixmello.com](https://www.mixmello.com/)!
 * **Spotify Parent-Friendly-ifier**: A program that takes your Spotify playlist and converts it to a clean version with the same songs, and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents.
   * DONE: By [Arman Rafati](https://github.com/code-arman/Cleanify) ⭐ 71 | 🐛 12 | 🌐 JavaScript | 📅 2024-05-04, project at [cleanify.app](https://www.cleanify.app)!
 * **Responsive AI DJ**: Uses a camera to monitor the movement of the people in the crowd and run sentiment analysis on their faces. Notices how that changes as it changes the music, with higher weights for more people. Can then "gradient descent" towards the optimal AI generated music for that crowd, keeping in mind things like repetitiveness and how the audience composition changes over time. Want to add variety over just beats, so give it some samples and voices to throw in as well.
@@ -367,7 +367,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ### Crypto ($400 each)
 
-* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,192 | 🐛 19 | 📅 2026-09-09).
+* Patch ethers.js to add a function that calculates the transaction hash, without having to send the transaction. keccak256 on the signed transaction doesn't work, and there is no built in function to do so even though it is possible and one can write their own helper function (see the [description here](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/issues/12) ⭐ 2,191 | 🐛 19 | 📅 2026-09-09).
 * ~~ed25519 encryption in a ZK SNARK (using circom). Metamask's [encrypt](https://github.com/MetaMask/eth-sig-util/blob/main/src/encryption.ts#L94) ⭐ 584 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-18 function on chain would be new, and save people from having to use MIMC as an encryption function.~~
   * Edit: This is [done](https://ethresear.ch/t/verify-ed25519-signatures-cheaply-on-eth-using-zk-snarks/13139).
 * **Pay for L1 Txs With Any Coin**: Gas station network v2 mainnet frontend, even for simple ERC20 sends. Would allow people to send transactions to the chain without any eth in their wallet; there are no live mainnet frontends right now. This is being vaguely pushed for with account abstraction, but you can also run MEV-incentivized relayers to do this (see [stealthdrop](https://github.com/stealthdrop/stealthdrop) ⚠️ Archived or [surrogeth](https://github.com/lsankar4033/surrogeth) ⭐ 42 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-24 without centralized relayers).
@@ -425,4 +425,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
