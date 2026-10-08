@@ -1,6 +1,6 @@
 # Awesome Ideas for Software that People Would Actually Use with stars
 
-Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,610 | 🐛 3 | 📅 2026-08-11.
+Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,611 | 🐛 3 | 📅 2026-08-11.
 
 These ideas, as far as I know, don't exist yet (or have done a poor job with SEO on Google). These are also ideas I desperately wish I could have tried at least once, meaning many others probably have as well. It's difficult to stay motivated coding or on a side project when you don't know if people will use it, or if your end goal is solving a solved problem. This list aims to fix that.
 
@@ -373,7 +373,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 * **Donate to Any Arxiv Paper and Its References**: Put in an arxiv link, and a bot scrapes all the emails out of the PDF/Arxiv itself. Then it scrapes all of the emails off of all of the dependencies and allows the donor to reweight them based on where they appeared in the text (i.e. it defaults to something like, cited in previous work or methods splits 40% of the donation, authors cited in intro split 10% of the funds or whatever). Then it deploys [zk-email wallets](https://github.com/zkemail/email-wallet) ⭐ 184 | 🐛 30 | 🌐 Rust | 📅 2025-04-09  for all of them and sends them the money.
 * **Optimal NFT Auctions**: Build a full NFT marketplace that uses optimal auction theory instead of first price auctions, like Opensea etc do right now. You should use our [on chain blind Vickrey auction contracts](https://github.com/Philogy/create2-vickrey-contracts) ⭐ 54 | 🐛 0 | 🌐 Solidity | 📅 2023-02-21, which you can understand via our [blog post](https://blog.aayushg.com/posts/vickrey).
 * **Recursive Verifier for Vole in the Head**: Thanks to Nanak for the idea. Holonym has a very fast [browser prover for circom](https://github.com/holonym-foundation/vole-zk-prover) ⭐ 36 | 🐛 0 | 🌐 Rust | 📅 2025-06-03 based on the vole in the head paper, but proofs are 10mb. Write a recursive verifier for these proofs in groth16 so that you can aggregate them efficiently to post on-chain.
-* ~~Add a nice frontend to <https://github.com/nulven/zk-message-board> ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2022-03-11, and build a proof-of-concept anonymous group posting app powered by zero-knowledge proofs.~~
+* ~~Add a nice frontend to <https://github.com/nulven/zk-message-board> ⭐ 34 | 🐛 2 | 🌐 TypeScript | 📅 2022-03-11, and build a proof-of-concept anonymous group posting app powered by zero-knowledge proofs.~~
   * Edit: Done by <https://heyanon.xyz>.
 * **ZK Email Applications**: Using our SDK linked to from <https://prove.email>, build any one of the applications listed on [our organization readme](https://github.com/zkemail/.github/blob/main/profile/README.md#help-out) ⭐ 1 | 🐛 1 | 📅 2026-09-09! Most useful for getting off-chain data on chain, or sending assets to people off-chain in a trustless manner via email.
 * **CNF SAT Compiler**: Build a miniature compiler that converts programmable statements into CNF SAT problems that can be used for KZG WE in small cases like [this](https://x.com/Vladfdp/status/1891478056776200663).
@@ -425,4 +425,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
