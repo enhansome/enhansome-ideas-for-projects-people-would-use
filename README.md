@@ -1,6 +1,6 @@
 # Awesome Ideas for Software that People Would Actually Use with stars
 
-Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,614 | 🐛 3 | 📅 2026-08-11.
+Inspired by <https://github.com/joereynolds/what-to-code> ⭐ 1,613 | 🐛 3 | 📅 2026-08-11.
 
 These ideas, as far as I know, don't exist yet (or have done a poor job with SEO on Google). These are also ideas I desperately wish I could have tried at least once, meaning many others probably have as well. It's difficult to stay motivated coding or on a side project when you don't know if people will use it, or if your end goal is solving a solved problem. This list aims to fix that.
 
@@ -107,7 +107,7 @@ Feel free to use these for a hackathon, side project, or hacklodge project -- I'
 **Bounty Prompt:** A program that takes your spotify playlist and converts it to a clean version with the same songs and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents </br>
 **Completed by**: Arman Rafati</br>
 **Website:** <https://www.cleanify.app/> </br>
-**Github Link:** <https://github.com/code-arman/Cleanify> ⭐ 71 | 🐛 12 | 🌐 JavaScript | 📅 2024-05-04
+**Github Link:** <https://github.com/code-arman/Cleanify> ⭐ 72 | 🐛 12 | 🌐 JavaScript | 📅 2024-05-04
 
 ### Windows Automatic Unzipper
 
@@ -189,7 +189,7 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 * **Spotify Playlist Remixer**: A program that takes your Spotify playlist and converts it to another one of remixes of the same songs, to get some variety.
   * DONE: By [Alex Gurr](https://github.com/alexgurr/mixmello) ⭐ 51 | 🐛 0 | 🌐 SCSS | 📅 2021-10-20, project at [mixmello.com](https://www.mixmello.com/)!
 * **Spotify Parent-Friendly-ifier**: A program that takes your Spotify playlist and converts it to a clean version with the same songs, and removes it if it can't find any. Used to be able to listen to my playlists in the car with my parents.
-  * DONE: By [Arman Rafati](https://github.com/code-arman/Cleanify) ⭐ 71 | 🐛 12 | 🌐 JavaScript | 📅 2024-05-04, project at [cleanify.app](https://www.cleanify.app)!
+  * DONE: By [Arman Rafati](https://github.com/code-arman/Cleanify) ⭐ 72 | 🐛 12 | 🌐 JavaScript | 📅 2024-05-04, project at [cleanify.app](https://www.cleanify.app)!
 * **Responsive AI DJ**: Uses a camera to monitor the movement of the people in the crowd and run sentiment analysis on their faces. Notices how that changes as it changes the music, with higher weights for more people. Can then "gradient descent" towards the optimal AI generated music for that crowd, keeping in mind things like repetitiveness and how the audience composition changes over time. Want to add variety over just beats, so give it some samples and voices to throw in as well.
 * **Taste Discoverer**: The most unique and best music is often hard to surface via standard recommendation algorithms, because standard algorithms like collaborative filtering/matrix decomposition are unable to recommend niche songs. A more interesting algorithm is to find all of the artists that you like most/listen to most, and take *their* favorite songs, then take those artists' favorite songs, and so on. This lets you get more niche while feeling more connected to each artist, and as long as you can filter on each step, you can keep the taste exploration aligned with your own even in a complete absense of data. There's plenty of such playlists on Spotify and Soundcloud.
 * **Automatic Music Video Creator**: Upload any collection of videos, pictures, or a topic, that you want to auto-align to an uploaded mp3. The app detects drumbeats or other features and staggers the videos to transition at those times. Note that this kind of exists with Adobe Firefly now, I think.
@@ -425,4 +425,4 @@ Overall, I strongly advise against closed source and ads -- not just because of 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
