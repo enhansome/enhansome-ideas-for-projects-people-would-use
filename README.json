@@ -495,7 +495,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2025-04-09T17:55:18Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "zkemail",
                 "repo": "email-wallet",
                 "stars": 183,
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:07:34.999Z",
+    "last_updated": "2026-10-24T06:02:48.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
