@@ -452,7 +452,7 @@
                 "open_issues": 40,
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
-                "stars": 584,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
@@ -540,7 +540,7 @@
                 "open_issues": 0,
                 "owner": "holonym-foundation",
                 "repo": "vole-zk-prover",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:59:49.771Z"
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:20:08.957Z",
+    "last_updated": "2026-10-31T07:08:14.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
