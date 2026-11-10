@@ -442,14 +442,14 @@
               "description": "MetaMask/eth-sig-util",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A collection of functions for signing and verifying data with Ethereum keys.",
                 "homepage": null,
                 "id": 82644780,
                 "language": "TypeScript",
                 "license": "ISC",
-                "last_commit": "2026-11-05T14:51:41Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-09T10:33:52Z",
+                "open_issues": 35,
                 "owner": "MetaMask",
                 "repo": "eth-sig-util",
                 "stars": 586,
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:11:57.676Z",
+    "last_updated": "2026-11-10T08:31:24.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -693,7 +693,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2222,
+      "stars": 2225,
       "topics": [
         "awesome",
         "awesome-list",
