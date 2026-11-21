@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:42:50.410Z",
+    "last_updated": "2026-11-21T08:24:38.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.",
@@ -693,7 +693,7 @@
       "open_issues": 19,
       "owner": "Divide-By-0",
       "repo": "ideas-for-projects-people-would-use",
-      "stars": 2233,
+      "stars": 2235,
       "topics": [
         "awesome",
         "awesome-list",
